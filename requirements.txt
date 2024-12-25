@@ -68,6 +68,7 @@ nest-asyncio==1.6.0
 notebook
 numpy==1.26.4
 optuna
+optuna-integration
 opencv-pg==1.0.2
 packaging==24.2
 pandas==2.2.3
